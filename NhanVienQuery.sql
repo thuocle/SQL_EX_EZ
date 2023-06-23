@@ -1,0 +1,20 @@
+--Đếm tổng số nhân viên trong công ty
+--Đếm tổng số dự án đã được đề ra
+--Đếm tổng số nhân viên tham gia dự án số 1
+--Đếm số nhân viên tham gia mỗi dự án
+--Tính tổng giờ làm của nhân viên 1
+--Tính tổng giờ làm của mỗi nhân viên
+--Tìm nhân viên có số giờ làm cao nhất dự án 1
+--Tìm dự án có ít nhân viên tham gia nhất
+--Tìm nhân viên có số giờ làm cao nhất công ty
+--Tính tổng giờ làm của mỗi dự án
+--Tính số giờ làm trung bình trong mỗi dự án
+--Tính số giờ làm trung bình mỗi nhân viên
+--Tìm 3 dự án có tổng số giờ làm của nhân viên là cao nhất
+--Tìm 3 nhân viên có số giờ làm cao nhất công ty
+--Tìm những nhân viên có tổng giờ làm trên 300 giờ
+--Tìm những nhân viên có tổng giờ làm từ 150 – 200 giờ
+--Đếm mỗi thành phố có bao nhiêu nhân viên
+--Tìm 3 nhân viên có số giờ làm thấp nhất công ty (không tính những nhân viên chưa tham gia dự án nào)
+--Tìm những thành phố nào có ít hơn 3 nhân viên
+--Tìm nhân viên tham gia nhiều dự án nhất
