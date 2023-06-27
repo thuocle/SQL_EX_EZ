@@ -3,7 +3,7 @@ SELECT COUNT(NhanVien.NhanvienID)
 FROM NhanVien
 SELECT *
 FROM PhanCong
---Đếm tổng số dự án đã được đề ra
+--Đếm tổng số dự án đã được đề raa
 SELECT COUNT(DuAn.DuanID) 
 FROM DuAn
 --Đếm tổng số nhân viên tham gia dự án số 1
